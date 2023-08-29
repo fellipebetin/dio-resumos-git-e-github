@@ -9,7 +9,7 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 - [Documentação Readme](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 
 ## 💻 Resumos das Aulas
-| Aulas | Resumos |
+| Aulas | Resumo |
 |-------|---------|
 | Gravando Alterações no Repositório Local | [Resumos]() |
 
